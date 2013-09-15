@@ -10,10 +10,12 @@ Installation
 ------------
 
 Step 0 (if downloaded from github)
-$ gem build sad_squid.gemspec
+
+    $ gem build sad_squid.gemspec
 
 Step 1
-$ gem install sad_squid
+
+    $ gem install sad_squid
 
 Usage
 -----
@@ -28,3 +30,6 @@ puts sad_squid.decode string
 # => 3366362605
 ```
 
+License
+-------
+Apache 2
